@@ -1,0 +1,1 @@
+# FP-case-class-assignment
